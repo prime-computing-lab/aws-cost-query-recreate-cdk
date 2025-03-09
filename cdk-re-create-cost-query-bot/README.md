@@ -1,6 +1,6 @@
 # AWS CDK Resource Recreation Demo
 
-This repository demonstrates how to recreate existing AWS resources using AWS CDK, effectively bringing manually created resources under Infrastructure as Code (IaC) management. This accompanies a YouTube video tutorial showing the complete process.
+This repository demonstrates how to recreate existing AWS resources using AWS CDK, effectively bringing manually created resources under Infrastructure as Code (IaC) management. This accompanies a [YouTube video tutorial](https://youtu.be/nfZhPgK2jXk) showing the complete process.
 
 ## Overview
 
